@@ -19,7 +19,7 @@
   - b. 新闻2
   - c. 新闻3
 
-···JavaScript
+```JavaScript
 function closePackage(){
    let a = 1;
    return function children(){
