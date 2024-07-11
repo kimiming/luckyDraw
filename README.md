@@ -19,13 +19,14 @@
   - b. 新闻2
   - c. 新闻3
 
-```JavaScript
+`
 function closePackage(){
    let a = 1;
    return function children(){
       console.log(a)
    }
 }
+`
 
 ```markdown
 这是普通文本内容。
