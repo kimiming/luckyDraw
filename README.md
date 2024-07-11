@@ -28,4 +28,6 @@ function closePackage(){
 }
 
 ```markdown
+这是普通文本内容。
+
 ---
