@@ -26,3 +26,4 @@ function closePackage(){
       console.log(a)
    }
 }
+---
